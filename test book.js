@@ -25,3 +25,6 @@ const zola = new Book('Germinal', "Zola", "roman", 300, 12, false);
 const fabcaro = new Book('Zaizaizaizai', "Fabcaro", "bd", 100, 58, false);
 const poix = new Book('Là d où je viens a disparu', "Guillaume Poix", "roman", 280, 200, false);
 export const books = [zola, fabcaro, poix];
+
+
+testestest
